@@ -1,3 +1,6 @@
+Play the game- https://shivamscripts92.github.io/PatternPlay/
+
+
 # PatternPlay
 
 PatternPlay is an engaging memory game where players follow and replicate sequences of colors and sounds. Challenge your memory as the patterns grow increasingly complex with each level.
